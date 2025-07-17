@@ -1,0 +1,5 @@
+Steps to run program :
+
+1. g++ main.cpp huffman.cpp -o main   
+2. ./main
+
